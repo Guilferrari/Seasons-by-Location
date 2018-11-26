@@ -1,4 +1,4 @@
-#Seasons by Location
+##Seasons by Location
 
 This application use your location to determine the season in React.
 
